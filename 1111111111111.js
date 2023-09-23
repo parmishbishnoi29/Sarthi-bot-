@@ -4,7 +4,7 @@ const PDFDocument = require('pdfkit');
 const fs = require('fs');
 const { promisify } = require('util');
 
-const BOT_TOKEN = '6295609255:AAGK2pmysuGh6rJeC5KdATga-fg0tFx--fs'; // Replace with your Telegram Bot token.
+const BOT_TOKEN = '6295609255:AAH_lz3z07BLkjwgVu6YGHB5WhTjaiZ9Vfs'; // Replace with your Telegram Bot token.
 const DB_HOST = 'localhost';
 const DB_USER = 'postgres';
 const DB_PORT = 5432;
